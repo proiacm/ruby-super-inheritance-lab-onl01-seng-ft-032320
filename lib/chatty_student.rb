@@ -1,1 +1,1 @@
-require_parent 
+require_relative "/.student.rb" 
